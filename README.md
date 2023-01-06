@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/max/1400/0*CHs47eo87tMPd_-q.gif)](https://www.linkedin.com/in/firoz-kabir-1a6a5a222/)
 <h1 align="center">Hi 👋, I'm Firoz Kabir</h1>
-<h3 align="center">I am really passionate about Data Science/Data Analytics from Bangladesh</h3>
+<h3 align="center">I am really passionate about Data Science/Data Analytics </h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*CHs47eo87tMPd_-q.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firozkabir01&label=Profile%20views&color=0e75b6&style=flat" alt="firozkabir01" /> </p>
